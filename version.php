@@ -18,15 +18,15 @@
  * Theme version info
  *
  * @package    theme
- * @subpackage anole
+ * @subpackage archaius
  * @copyright  2013 Daniel Munera Sanchez
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version   = 2013030900; // The current module version (Date: YYYYMMDDXX)
+$plugin->version   = 2013031700; // The current module version (Date: YYYYMMDDXX)
 $plugin->requires  = 2012062500; // Requires this Moodle version
-$plugin->component = 'theme_anole'; // Full name of the plugin (used for diagnostics)
+$plugin->component = 'theme_archaius';
 $plugin->release = '2.x (Build: 2013030900)';
 $plugin->maturity = MATURITY_STABLE;
