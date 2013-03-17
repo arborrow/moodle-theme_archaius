@@ -1,4 +1,4 @@
-anole
+archaius
 =========
 
 Moodle theme.

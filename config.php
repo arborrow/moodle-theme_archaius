@@ -5,9 +5,9 @@
 /// how Moodle uses this theme.
 ////////////////////////////////////////////////////////////////////////////////
 
-$THEME->name = 'anole';
+$THEME->name = 'archaius';
 
-$THEME->sheets = array('base','anole' ,'course','slideshow','boilerplate');
+$THEME->sheets = array('base','archaius' ,'course','slideshow','boilerplate');
 /// This variable is an array containing the names of all the
 /// stylesheet files you want included in this theme, and in what order
 ////////////////////////////////////////////////////////////////////////////////
@@ -132,4 +132,4 @@ $THEME->javascripts_footer = array('generalPost');
 $THEME->enable_dock = false;
 
 $THEME->editor_sheets = array('editor');
-$THEME->csspostprocess = 'anole_process_css';
+$THEME->csspostprocess = 'archaius_process_css';
